@@ -4,10 +4,4 @@
 
 ![메인 이미지](./main.png)
 
-![화면 이미지](./About Me.png)
-
-![화면 이미지](./What I Do.png)
-
 ![화면 이미지](./PortFolio.png)
-
-![화면 이미지](./Contact With Me.png)

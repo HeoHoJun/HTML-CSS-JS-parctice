@@ -4,7 +4,7 @@
 
 ![메인 이미지](./main.png)
 
-![화면 이미지](./About me.png)
+![화면 이미지](./About e.png)
 
 ![화면 이미지](./What I Do.png)
 
